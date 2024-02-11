@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tom@daamn.nl**
 
-- 📄 Know about my experiences [daamn.nl/about](daamn.nl/about)
+- 📄 Know about my experiences [daamn.nl/about](https://daamn.nl/about/)
 
 - ⚡ Fun fact **I like to make (and drink) cocktails**
 
