@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Dotnet, C#, Unity, React**
 
-- 📫 How to reach me **tom@daamn.nl**
+- 📫 How to reach me **tom.daamen2811@gmail.com**
 
-- 📄 Know about my experiences [daamn.nl/about](https://daamn.nl/about/)
+- 📄 Know about my experiences **Internship at Internetbureau Slik, Rotterdam. Developing new features with Vue and NestJS. **
 
 - ⚡ Fun fact **I like to make (and drink) cocktails**
 
