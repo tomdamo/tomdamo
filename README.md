@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tom Daamen</h1>
-<h3 align="center">A passionate game developer from Rotterdam</h3>
+<h3 align="center">A passionate developer from Rotterdam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomdamo&label=Profile%20views&color=0e75b6&style=flat" alt="tomdamo" /> </p>
 
 - 🔭 I’m currently working on **Graduation project, Game development and simulation**
 
-- 🌱 I’m currently learning **Godot**
+- 🌱 I’m currently learning **PHP and AWS**
 
-- 💬 Ask me about **Dotnet, C#, Unity, React**
+- 💬 Ask me about **Dotnet, C#, Unity, Godot**
 
-- 📫 How to reach me **tom.daamen2811@gmail.com**
+- 📫 How to reach me **DM me**
 
-- 📄 Know about my experiences **Internship at Internetbureau Slik, Rotterdam. Developing new features with Vue and NestJS. **
+- 📄 Know about my experiences **Internship at Internetbureau Slik, Rotterdam. Developing new features with Vue and NestJS. && Internship at DeliveryMatch, Rotterdam. AWS Logging and monitoring**
 
-- ⚡ Fun fact **I like to make (and drink) cocktails**
+- ⚡ Fun fact **I am very passionate about coffee and cocktails.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
