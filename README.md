@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomdamo&label=Profile%20views&color=0e75b6&style=flat" alt="tomdamo" /> </p>
 
-- 🔭 I’m currently working on **Graduation project, Game development and simulation**
+- 🔭 I’m currently working on **A game**
 
-- 🌱 I’m currently learning **PHP and AWS**
+- 🌱 I’m currently learning **Dart and Flutter**
 
 - 💬 Ask me about **Dotnet, C#, Unity, Godot**
 
 - 📫 How to reach me **DM me**
 
-- 📄 Know about my experiences **Internship at Internetbureau Slik, Rotterdam. Developing new features with Vue and NestJS. && Internship at DeliveryMatch, Rotterdam. AWS Logging and monitoring**
+- 📄 Know about my experiences **Internship at Internetbureau Slik, Rotterdam. Developing new features with Vue and NestJS. && Internship at DeliveryMatch, Rotterdam. **
 
 - ⚡ Fun fact **I am very passionate about coffee and cocktails.**
 
