@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **DM me**
 
-- 📄 Know about my experiences **Internship at Internetbureau Slik, Rotterdam. Developing new features with Vue and NestJS. && Internship at DeliveryMatch, Rotterdam. **
+- 📄 My experiences: Webdevelopment Internship at Internetbureau Slik, Rotterdam. Software engineer Internship at DeliveryMatch, Rotterdam. Full-time Software engineer at DeliveryMatch. Freelance developer at daamn.nl
 
-- ⚡ Fun fact **I am very passionate about coffee and cocktails.**
+- ⚡ Fun fact: I am very passionate about making (and drinking) coffee and cocktails. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
