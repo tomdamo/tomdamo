@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomdamo&label=Profile%20views&color=0e75b6&style=flat" alt="tomdamo" /> </p>
 
-- 🔭 I’m currently working on **A game**
+- 🔭 I’m currently working on **Laravel Webapplicatione**
 
-- 🌱 I’m currently learning **Dart and Flutter**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **Dotnet, C#, Unity, Godot**
+- 💬 Ask me about **Dotnet, C#, Yii-2, Godot**
 
 - 📫 How to reach me **DM me**
 
