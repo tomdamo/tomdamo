@@ -22,7 +22,7 @@
 
 - 💻 **Freelance Developer** — [daamn.nl](https://daamn.nl)  
 - 🧠 **Software Engineer** — DeliveryMatch (Full-time)  
-- 🔧 **Internships** — Internetbureau Slik & DeliveryMatch, Rotterdam
+- 🔧 **Internships** — @ Internetbureau Slik & @ DeliveryMatch, Rotterdam. 
 
 ---
 
