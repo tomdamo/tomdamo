@@ -1,19 +1,30 @@
 <h1 align="center">Hi 👋, I'm Tom Daamen</h1>
-<h3 align="center">A passionate developer from Rotterdam</h3>
-<h4 align="center">second account: daamentom </h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomdamo&label=Profile%20views&color=0e75b6&style=flat" alt="tomdamo" /> </p>
+<h3 align="center">Passionate Developer from Rotterdam 🇳🇱</h3>
+<h4 align="center">Also active on my second account: <a href="https://github.com/daamentom">daamentom</a></h4>
 
-- 🔭 I’m currently working on **Laravel + React webapp**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tomdamo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🌱 I’m currently learning **Laravel**
+---
 
-- 💬 Ask me about **Yii-2, Godot, Astro**
+### 🚀 About Me
 
-- 📫 How to reach me **DM me**
+- 🔭 Currently building a **Laravel + React** web app  
+- 🌱 Currently learning **Laravel in depth**  
+- 💬 Ask me about **Yii2**, **Godot**, or **Astro**  
+- 📫 Reach out via **DM** — always happy to connect!  
+- ⚡ Fun fact: I'm passionate about crafting (and enjoying) great **coffee** and **cocktails**
 
-- 📄 My experiences: Webdevelopment Internship at Internetbureau Slik, Rotterdam. Software engineer Internship at DeliveryMatch, Rotterdam. Full-time Software engineer at DeliveryMatch. Freelance developer at daamn.nl
+---
 
-- ⚡ Fun fact: I am very passionate about making (and drinking) coffee and cocktails. 
+### 💼 Experience
+
+- 💻 **Freelance Developer** — [daamn.nl](https://daamn.nl)  
+- 🧠 **Software Engineer** — DeliveryMatch (Full-time)  
+- 🔧 **Internships** — Internetbureau Slik & DeliveryMatch, Rotterdam
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
