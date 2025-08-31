@@ -10,10 +10,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building a **Laravel + React** web app  
-- 🌱 Currently learning **Laravel in depth**  
-- 💬 Ask me about **Yii2**, **Godot**, or **Astro**  
-- 📫 Reach out via **DM** — always happy to connect!  
+- 🔭 Currently building a **Django + NextJs** web app    
 - ⚡ Fun fact: I'm passionate about crafting (and enjoying) great **coffee** and **cocktails**
 
 ---
