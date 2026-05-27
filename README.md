@@ -10,16 +10,17 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building a **Django + NextJs** web app    
+- 🔭 Currently building [ossotje.nl](https://ossotje.nl)
 - ⚡ Fun fact: I'm passionate about crafting (and enjoying) great **coffee** and **cocktails**
 
 ---
 
 ### 💼 Experience
 
-- 💻 **Freelance Developer** — [daamn.nl](https://daamn.nl)  
-- 🧠 **Software Engineer** — DeliveryMatch (Full-time)  
-- 🔧 **Internships** — @ Internetbureau Slik & @ DeliveryMatch, Rotterdam. 
+- 💻 **Freelance Developer** — [daamn.nl](https://daamn.nl)
+- 🤓 **Data analyst** - Forvis Mazars 2026-present 
+- 🧠 **Software Engineer** — DeliveryMatch (Full-time)  2024-2026
+- 🔧 **Internships** — @ Internetbureau Slik & @ DeliveryMatch, Rotterdam. 2023
 
 ---
 
