@@ -20,7 +20,7 @@
 - 💻 **Freelance Developer** — [daamn.nl](https://daamn.nl)
 - 🤓 **Data analyst** - Forvis Mazars 2026-present 
 - 🧠 **Software Engineer** — DeliveryMatch (Full-time)  2024-2026
-- 🔧 **Internships** — @ Internetbureau Slik & @ DeliveryMatch, Rotterdam. 2023
+- 🔧 **Internships** — Internetbureau Slik, Rotterdam. 2022 & DeliveryMatch, Rotterdam. 2023
 
 ---
 
